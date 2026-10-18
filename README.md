@@ -1,3 +1,6 @@
+To test the project, press "1" for turning clockwise, "2" for anti-clockwise and "3" to return to neutral position.
+
+
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
 # Tiny Tapeout Verilog Project Template
