@@ -1,3 +1,5 @@
+This is servo motor controller with vga output for visual reference of motor position.
+Program generates PWM signal with 20ms period with pulse width 1.5ms for neutral position.
 To test the project, press "1" for turning clockwise, "2" for anti-clockwise and "3" to return to neutral position.
 
 
